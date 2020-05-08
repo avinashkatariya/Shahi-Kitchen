@@ -1,0 +1,32 @@
+{
+    "project_info": {
+        "project_number": "592963971500",
+        "firebase_url": "https://shahikitchen-9620d.firebaseio.com",
+        "project_id": "shahikitchen-9620d",
+        "storage_bucket": "shahikitchen-9620d.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:592963971500:android:b0f71307484c0ef69ef209",
+            "android_client_info": {
+                "package_name": "com.example.ShahiKitchen"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "592963971500-bb58i91re619bvp4ta6s6ktl4oacc1o7.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyAwSQYJJ-HitMjQzgoTaOq1RFLo74BsseE"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "592963971500-bb58i91re619bvp4ta6s6ktl4oacc1o7.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
